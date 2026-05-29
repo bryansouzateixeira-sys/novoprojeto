@@ -7,8 +7,8 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: #6d1b1b;
-color: rgb(255, 255, 255);
+background-color: #5a1d1d;
+color: rgb(252, 252, 252);
 width: 100%;
 padding: 20px;
 }
@@ -20,7 +20,7 @@ align-items: center;
 justify-content: center;
 }
 .cabecalho-imagem{
-width: 180%;
+width: 200%;
 display: flex;
 justify-content: flex-start;
 align-items: center;
@@ -29,7 +29,7 @@ align-items: center;
 padding: 50px;
 text-align: center;
 width: 50%;
-font: 50px;
+font: 100px;
 }
 .sociais{
 display: flex;
